@@ -1,0 +1,66 @@
+{
+  "user": [
+    {
+      "name": "mido",
+      "email": "zw@akakaka.com",
+      "password": "kjkkh2hk22k",
+      "id": 1
+    },
+    {
+      "name": "sdgfg",
+      "email": "jhjhj",
+      "password": "hjhjhjh",
+      "id": 2
+    },
+    {
+      "name": "hghghghg",
+      "email": "ssss@ffghgh.com",
+      "password": "hghjhjh",
+      "id": 3
+    },
+    {
+      "name": "xxxxxxxxxx",
+      "email": "xxxx@hhggh.com",
+      "password": "x2x2x2x2x2x",
+      "id": 4
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 5
+    }
+  ],
+  "restaurant": [
+    {
+      "id": 2,
+      "name": "dominos pizza",
+      "contact": "2222",
+      "adress": "zamalek"
+    },
+    {
+      "name": "RCB Restaurant",
+      "adress": "cairo",
+      "contact": "767676700",
+      "id": 3
+    },
+    {
+      "name": "elsafty",
+      "adress": "egypt",
+      "contact": "0111111111111111",
+      "id": 4
+    },
+    {
+      "name": "none",
+      "adress": "go away",
+      "contact": "0000000000",
+      "id": 5
+    },
+    {
+      "name": "ces",
+      "adress": "misr",
+      "contact": "9090909090",
+      "id": 6
+    }
+  ]
+}
